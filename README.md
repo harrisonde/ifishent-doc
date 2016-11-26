@@ -1,5 +1,6 @@
 
 
+![](icon@2x.png)
 # API 
 ## Endpoints
 * [Token](#oauth-token)
